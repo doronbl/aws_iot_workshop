@@ -46,7 +46,8 @@ Once done with the setup, please complete the following sessions under AWS IoT W
 * Lab 1 - Getting Started
 * Lab 2 - The SNS Hook
 * Lab 5 - Thing Shadows
-For anyone done before time, feel free to run:
+
+If you are done with above sections before time, feel free to proceed to:
 
 AWS IoT Workshop > AWS IoT Core > Lab 6 - Last Will and Testament
 * IOT ANALYTICS - SETTING UP ANALYTICS
