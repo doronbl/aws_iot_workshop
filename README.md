@@ -1,2 +1,2 @@
-# aws_iot_workshop
+# AWS IoT Workshop
 AWS IoT Immersion Day Workshop Instructions
