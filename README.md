@@ -52,4 +52,4 @@ If you are done with above sections before time, feel free to proceed to:
 AWS IoT Workshop > AWS IoT Core > Lab 6 - Last Will and Testament
 * IOT ANALYTICS - SETTING UP ANALYTICS
 
-You are now ready to start the [workshop](https://iot.awsworkshops.com). Ask the instructor for the credentials.
+You are now ready to start the [workshop](https://iot.awsworkshops.com).
